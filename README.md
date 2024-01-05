@@ -1,1 +1,1 @@
-# testing-maintenance-automation
+This repository allows testing the maintenance automation used in the French Ember Guides. It corresponds to the official version to sync with.

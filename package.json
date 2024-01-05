@@ -1,0 +1,23 @@
+{
+  "name": "testing-maintenance-automation",
+  "version": "1.0.0",
+  "description": "This repository allows testing the maintenance automation used in the French Ember Guides. It corresponds to the official version to sync with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueCutOfficial/testing-maintenance-automation.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Marine Dunstetter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueCutOfficial/testing-maintenance-automation/issues"
+  },
+  "homepage": "https://github.com/BlueCutOfficial/testing-maintenance-automation#readme"
+}
