@@ -1,1 +1,0 @@
-The third page of the documentation.
