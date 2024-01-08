@@ -1,6 +1,6 @@
 {
   "name": "testing-maintenance-automation",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "This repository allows testing the maintenance automation used in the French Ember Guides. It corresponds to the official version to sync with.",
   "main": "index.js",
   "scripts": {
