@@ -1,1 +1,1 @@
-The first page of the documentation.
+The first page of the documentation. This doc was modified in version 1.1.0.
