@@ -1,1 +1,1 @@
-The fourth page of the documentation. This doc was added in version 1.9.0.
+The fourth page of the documentation. This doc was added in version 2.0.0.
