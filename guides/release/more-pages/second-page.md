@@ -1,1 +1,1 @@
-The second page of the documentation. This doc was modified in version 2.1.0.
+The second page of the documentation. This doc was modified in version 2.3.0.
